@@ -1,1 +1,2 @@
-hello 
+this update demonstrates pulling and pushing changes in git.
+this update demonstrates pulling and pushing changes in git.
